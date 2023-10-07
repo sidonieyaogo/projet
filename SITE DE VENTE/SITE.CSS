@@ -1,0 +1,93 @@
+SITE.CSS
+
+.nouveaux{
+    text-align: center;
+}
+.nouveaux li{
+    display: inline-block;
+    margin: 3%;
+    margin-right: 5%;
+    margin-left: 2%;
+}
+header {
+    background-color: rgb(243, 104, 104);
+    margin-top: -20px;
+    margin: -10px;
+    height: 230px;
+
+    }
+    .logo img{
+        margin: 10px;
+        
+        
+       
+        
+    }
+    header h1{
+        text-align: center;
+        position: relative;
+        bottom: 100px; 
+        margin-left: 200px;
+        color: blue;
+
+    }
+    h1:hover{
+        color: rgb(20, 22, 17);
+        transition: 4s;
+    }
+    body{
+        background-color: rgb(219, 172, 209);
+    }
+    .numero2 img{
+        margin-top: 4%;
+        max-width: 20%;
+        margin-right: 3%;
+        margin-left: 1%;
+    }
+    .numero4 img{
+        margin-left:3%;
+        margin-right:5%;
+        width: 200px;
+        height: 300px;
+        margin-top: 40px;
+    }
+    .numero8 img{
+            max-width: 19%;
+            vertical-align: middle;
+            margin-right: 3%;
+            margin-left: 2%;
+            margin-top: 4.5%;
+        }
+    .numero5 img{
+        padding-top: 50px;
+        max-width: 19%;
+         margin-right: 2%;
+         margin-left: 3%;
+    }
+    body{
+        background-color: blanchedalmond;
+    }
+    .numero1 img{
+        max-width: 19%;
+        vertical-align: middle;
+        margin-right: 3%;
+        margin-left: 2%;
+    }
+    footer{
+        height: 260px;
+        background-color: #0f535f;
+        margin-top: 6%;
+    
+    }
+    footer h1{
+        color: #fff;
+        text-align: center;
+        padding:20px
+    }
+    .copyright{
+        text-align: center;
+        font-weight: bold;
+        padding-top: 3px;
+        color: #e6148f;
+    }
+       

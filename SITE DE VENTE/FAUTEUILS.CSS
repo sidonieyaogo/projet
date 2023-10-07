@@ -1,0 +1,49 @@
+FAUTEUILS.CSS
+.numero8{
+    display: flex;
+    align-items: center;
+
+}
+
+.numero8 img{
+    max-width: 19%;
+    vertical-align: middle;
+    margin-right: 3%;
+    margin-left: 2%;
+}
+    .numero88 img{
+    max-width: 19%;
+    vertical-align: middle;
+    margin-right: 3%;
+    margin-left: 2%;
+    padding-top: 50px;
+}
+H1{
+    text-align: center;
+}
+.jeu5 li{
+    display: inline-block;
+    margin: 3%;
+    margin-right: 4%;
+    }
+body{
+    background-color: rgb(212, 130, 181);
+}
+footer{
+    height: 260px;
+    background-color: #0f535f;
+    margin-top: 6%;
+
+}
+footer h1{
+    color: #fff;
+    text-align: center;
+    padding:20px
+}
+.copyright{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    color: #e6148f;
+}
+   

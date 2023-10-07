@@ -1,0 +1,52 @@
+.numero5{
+    display: flex;
+    align-items: center;
+
+}
+
+.numero5 img{
+    max-width: 19%;
+    vertical-align: middle;
+    margin-right: 3%;
+    margin-left: 2%;
+}
+    .numero55 img{
+    max-width: 19%;
+    vertical-align: middle;
+    margin-right: 3%;
+    margin-left: 2%;
+    padding-top: 50px;
+}
+
+H1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(223, 215, 113);
+}
+.jeu1 li{
+    display: inline-block;
+    margin: 3%;
+    margin-right: 5%;
+    margin-left: 2%;
+        
+    }
+    footer{
+        height: 260px;
+        background-color: #0f535f;
+        margin-top: 6%;
+    
+    }
+    footer h1{
+        color: #fff;
+        text-align: center;
+        padding:20px
+    }
+    .copyright{
+        text-align: center;
+        font-weight: bold;
+        padding-top: 30px;
+        color: #e6148f;
+    }
+       
